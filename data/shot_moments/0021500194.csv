@@ -1,0 +1,5 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500194,40,1,1.3620299999999999,332.6,21500194.0,336.0,201167.0,Arron Afflalo,-2.0,239.0,333.9
+21500194,175,2,1.51543,910.8,21500194.0,915.0,1626170.0,Jerian Grant,-96.0,38.0,912.9
+21500194,503,4,2.4898,2619.2,21500194.0,2623.0,204001.0,Kristaps Porzingis,32.0,193.0,2620.6
+21500194,565,4,4.829119370078739,2839.6,21500194.0,2841.0,2546.0,Carmelo Anthony,17.0,-1.0,2839.8

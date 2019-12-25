@@ -1,0 +1,3 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500078,31,1,0.68188,220.7,21500078.0,221.0,1626143.0,Jahlil Okafor,-22.0,11.0,220.9
+21500078,182,2,0.512945,915.3,21500078.0,916.0,203917.0,Nik Stauskas,43.0,31.0,915.8

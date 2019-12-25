@@ -1,0 +1,4 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500166,398,3,1.1339409090909092,2122.7,21500166.0,2123.0,203094.0,Andrew Nicholson,0.0,1.0,2122.8
+21500166,505,4,2.4454233333333333,2584.2,21500166.0,2587.0,203094.0,Andrew Nicholson,0.0,1.0,2584.9
+21500166,661,5,4.256706640624997,3577.7,21500166.0,3578.0,203901.0,Elfrid Payton,-132.0,124.0,3577.9

@@ -1,0 +1,3 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500579,202,2,2.762755,1126.9,21500579.0,1130.0,202682.0,Derrick Williams,-140.0,213.0,1128.1
+21500579,336,3,0.675995,2081.7,21500579.0,2085.0,204038.0,Langston Galloway,43.0,208.0,2083.1

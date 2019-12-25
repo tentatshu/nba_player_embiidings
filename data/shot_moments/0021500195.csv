@@ -1,0 +1,3 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500195,301,3,3.290425,1798.8,21500195.0,1803.0,201980.0,Danny Green,164.0,188.0,1800.0
+21500195,306,3,7.5717,1851.7,21500195.0,1853.0,202695.0,Kawhi Leonard,153.0,-26.0,1852.0

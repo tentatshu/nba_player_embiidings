@@ -1,0 +1,4 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500573,5,1,4.731749999999999,52.2,21500573.0,56.0,202328.0,Greg Monroe,-45.0,31.0,53.1
+21500573,227,2,3.55235,1092.4,21500573.0,1093.0,203487.0,Michael Carter-Williams,-9.0,7.0,1092.9
+21500573,248,2,5.05542,1165.5,21500573.0,1166.0,203114.0,Khris Middleton,-142.0,218.0,1165.9

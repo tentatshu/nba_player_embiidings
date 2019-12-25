@@ -1,0 +1,5 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500293,90,1,10.404885,459.5,21500293.0,461.0,202700.0,Donatas Motiejunas,-23.0,4.0,459.7
+21500293,91,1,10.404885,459.5,21500293.0,462.0,203093.0,Terrence Jones,-1.0,14.0,459.7
+21500293,138,1,4.19472,693.5,21500293.0,697.0,203093.0,Terrence Jones,-212.0,170.0,694.9
+21500293,341,3,2.37689,1782.3,21500293.0,1785.0,201935.0,James Harden,-7.0,115.0,1783.4

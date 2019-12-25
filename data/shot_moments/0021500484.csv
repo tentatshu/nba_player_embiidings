@@ -1,0 +1,4 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500484,162,2,0.447755,935.3,21500484.0,940.0,202328.0,Greg Monroe,-7.0,62.0,937.5
+21500484,325,3,3.2907100000000002,1866.7,21500484.0,1870.0,203487.0,Michael Carter-Williams,6.0,52.0,1867.7
+21500484,505,4,3.3682466666666664,2708.6,21500484.0,2709.0,201573.0,Jerryd Bayless,-9.0,23.0,2708.8

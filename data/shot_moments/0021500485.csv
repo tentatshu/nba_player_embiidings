@@ -1,0 +1,5 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500485,159,2,4.01336,770.3,21500485.0,771.0,2738.0,Andre Iguodala,-2.0,-11.0,770.8
+21500485,283,2,7.540625,1372.2,21500485.0,1375.0,203991.0,Clint Capela,-42.0,26.0,1372.9
+21500485,350,3,2.350045,1673.4,21500485.0,1676.0,203110.0,Draymond Green,138.0,139.0,1675.0
+21500485,533,4,2.486895,2567.5,21500485.0,2570.0,2738.0,Andre Iguodala,222.0,115.0,2568.7

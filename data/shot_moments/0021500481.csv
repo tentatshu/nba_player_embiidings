@@ -1,0 +1,5 @@
+game_id_x,event_id,quarter,z_loc,game_clock,game_id_y,recorded_game_clock,recorded_player_id,recorded_player_name,recorded_loc_x,recorded_loc_y,peak_shot_game_clock
+21500481,147,2,3.903975,875.5,21500481.0,876.0,203613.0,Jonathon Simmons,-12.0,8.0,875.9
+21500481,315,3,4.55377,1892.4,21500481.0,1894.0,202688.0,Brandon Knight,-209.0,52.0,1892.7
+21500481,332,3,0.8732200000000001,1950.6,21500481.0,1951.0,203955.0,Bryce Cotton,-148.0,106.0,1950.9
+21500481,383,4,0.9649266666666666,2286.4,21500481.0,2287.0,203613.0,Jonathon Simmons,4.0,7.0,2286.7
