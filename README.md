@@ -1,48 +1,13 @@
-# nba-movement-data
-Ever since the nba stopped public access of their movement data, I though it would be good to have a copy of @neilmj data repo incase he deletes his data repo.
+# NBA Player Embiidings
+This project contains the backing code and data for my project at #######. For background and commentary on the project, please refer to the website.   
 
-Credit: [@neilmj](https://github.com/neilmj/BasketballData)
+Not all data is contained in this folder due to size limitations within Github. Most of the data near the end of the pipeline has been preserved due to its filtered nature. Early phases of the pipeline such as the original data has been deleted due to Github limitations. The original shot and PlayerVU tracking data that is an input to this project can be found in either my fork of the original data (#######) or the original Github repo by Neil #### (#####).
 
-## Data Setup
-1.To unzip the 7z file run this command
-```
-cd data
-sudo ./setup.sh
-```
-
-## Additional Data Conversions
-1. Additional scripts are provided. To complete these steps, add your project directory to the constant.py file in the movement package.
-```py 
-import os
-# change this data_dir for personal path
-if os.environ['HOME'] == '/home/neil':
-    data_dir = '/home/neil/projects/nba-movement-data'
-else:
-    raise Exception("Unspecified data_dir, unknown environment")
-```
+## Background
 
 
-2. Install the user package. You may need to run this in sudo.
-```
-python setup.py build
-python setup.py install
-```
+## Requirements
+- pandas
+- os
+- pyspark  
 
-3. Convert the JSON files.
-```
-python movement/json_to_csv.py
-```
-
-4. Convert the full-court to half-court. An explanation of moving the SportVU movement can be found [here](https://github.com/sealneaward/movement-quadrants).
-```
-python movement/convert_movement.py
-```
-
-5. The fixed shot times, along with the shot locations in half court space are in `data/shots/fixed_shots.csv`. They are formed from executing the script.
-```
-python fix_shot_times.py
-```
-
-In the fixing logic, the shot time is defined as the highest acceleration point before the ball reaches it's peak, within a defined window.
-The logic can be seen below.
-![plot](movement/plot.png)
