@@ -26,7 +26,7 @@ For the data scientists out there, this would be like how word embeddings change
 
 - `model\...`: contains the Google Collaboratory Notebook, inputs, and outputs
     - `...tsv`: embeddings and meta data files to be inputed into Google Embedding Projector
-    - `offensive_defensive_embedding_model.h5`: saved TensorFlow model 
+    - `offensive_defensive_embedding_model_best.h5`: saved TensorFlow model 
     - `player_aggregates.csv`: one of the output files of `generate_training_data.py` 
 
 ## Requirements
